@@ -4,18 +4,6 @@ React combined with industry-tested, server-side technologies, such as Node, Exp
 
 Full-Stack React Projects will take you through the process of preparing the development environment for MERN stack-based web development, creating a basic skeleton app, and extending it to build six different web apps. You'll build apps for social media, classrooms, media streaming, online marketplaces with real-time bidding, and web-based games with virtual reality features. Throughout the book, you'll learn how MERN stack web development works, extend its capabilities for complex features, and gain actionable insights into creating MERN-based apps, along with exploring industry best practices to meet the ever-increasing demands of the real world.
 
-### More applications built using this stack
-
-* [MERN Skeleton](https://github.com/shamahoque/mern-social/tree/second-edition)
-* [MERN Classroom](https://github.com/shamahoque/mern-classroom)
-* [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/second-edition)
-* [MERN Expense Tracker](https://github.com/shamahoque/mern-expense-tracker)
-* [MERN Mediastream](https://github.com/shamahoque/mern-mediastream/tree/second-edition)
-* [MERN VR Game](https://github.com/shamahoque/mern-vrgame/tree/second-edition)
-
-Learn more at [mernbook.com](http://www.mernbook.com/)
-A simple social media application with users, posts, likes and comments - developed using React, Node, Express and MongoDB. 
-
 ![MERN Social](https://s3.amazonaws.com/mernbook/git+/social.png "MERN Social")
 
 ### [Live Demo](http://social2.mernbook.com/ "MERN Social")
